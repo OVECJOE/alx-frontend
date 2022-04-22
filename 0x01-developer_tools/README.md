@@ -10,4 +10,4 @@ to increase the productivity of the developer.
 - How to screenshot a viewport
 - How to force hover effect on a certain element
 
-:smiles: *and more...*
+:smiling: *and more...*
