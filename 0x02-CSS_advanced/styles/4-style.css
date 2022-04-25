@@ -32,6 +32,6 @@ a {
     color: var(--color-primary);
 }
 
-body:where(h1, h2, h3, h4, h5, h6) {
+h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
 }
