@@ -44,20 +44,20 @@ body {
     line-height: var(--line-height-base);
 }
 
-a[href] {
+a[href^="images/"] {
     color: var(--text-color);
     text-decoration: none;
 }
 
-a[href]:visited {
+a[href^="images/"]:visited {
     font-style: italic;
 }
 
-a[href]:hover {
+a[href^="images/"]:hover {
     text-decoration: underline;
 }
 
-a[href]:active {
+a[href^="images/"]:active {
     color: var(--color-light-grey);
 }
 
