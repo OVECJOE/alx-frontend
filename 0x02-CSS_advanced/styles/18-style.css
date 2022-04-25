@@ -297,7 +297,7 @@ a:active {
 }
 
 .nav .nav-link:hover {
-    color: var(--nav-item-font-family);
+    color: var(--nav-item-link-hover);
 }
 
 .section {
